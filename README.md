@@ -21,5 +21,4 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliawel&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliawel&layout=compact&theme=dracula)
