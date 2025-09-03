@@ -2,8 +2,7 @@
 
 🎓 Estudante de **Ciência da Computação**  
 💻 Focada em **Desenvolvimento Web** (React, Vue.js, Angular, Java, Go)  
-🌱 Atualmente aprendendo: **Vue.js** e **Go**  
-🌍 Apaixonada por aprender idiomas: **Italiano 🇮🇹, Mandarim 🇨🇳, Coreano 🇰🇷 e Japonês 🇯🇵**  
+🌱 Me aprofundando em: **Spring Boot** e **React**
 
 ---
 
