@@ -1,7 +1,7 @@
 # Olá, eu sou a Julia! 👋
 
 🎓 Estudante de **Ciência da Computação**  
-💻 Focada em **Desenvolvimento Web** (React, Vue.js, Angular, Java, Go)  
+💻 Focada em **Desenvolvimento Web**  
 🌱 Me aprofundando em: **Spring Boot** e **React**
 
 ---
