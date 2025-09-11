@@ -22,5 +22,4 @@
 
 ## 📊 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliawel&layout=donut&theme=dracula)](https://github.com/juliawel/github-readme-stats)
-![Julias's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliawel&show_icons=true&theme=dracula)
 
