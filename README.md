@@ -21,6 +21,5 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliawel&layout=compact&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliawel&layout=donut-vertical)](https://github.com/juliawel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliawel&layout=donut-vertical&theme=dracula)](https://github.com/juliawel/github-readme-stats)
 
