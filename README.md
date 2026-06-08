@@ -34,6 +34,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🗂️ Featured Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliawel&layout=donut&theme=dracula)](https://github.com/juliawel)
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [user-registration](https://github.com/juliawel/user-registration) | API REST de gerenciamento de usuários | Java 21 · Spring Boot · MySQL · Docker |
+| [springboot-final-project](https://github.com/juliawel/springboot-final-project) | Backend e-commerce com autenticação segura | Java 21 · Spring Security · JWT · PostgreSQL |
+| [Vue.js-Expense-Tracker](https://github.com/juliawel/Vue.js-Expense-Tracker) | Rastreador de transações financeiras | Vue 3 · JavaScript |
